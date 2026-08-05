@@ -1,4 +1,4 @@
-#  KisanPay — B2B Agricultural Supply Chain Payment & Credit Infrastructure
+# KisanPay — B2B Agricultural Supply Chain Payment & Credit Infrastructure
 
 <p align="center">
   <img src="https://img.shields.io/badge/Course-MGT%20589%20Payment%20Technology-green?style=for-the-badge"/>
@@ -14,7 +14,7 @@
 
 ---
 
-##  Project Overview
+## Project Overview
 
 **KisanPay (Pvt.) Ltd.** is a B2B Agri-FinTech payment orchestration platform designed to eliminate Pakistan's **PKR 459+ billion annual cost of agricultural payment inefficiency**.
 
@@ -39,7 +39,7 @@ PKR 10B      →   Year 3 transaction volume target
 
 ---
 
-## ❗ The Problem We Solve
+## The Problem We Solve
 
 Pakistan's agricultural sector contributes **23% of GDP** and employs **38% of the labour force**, yet remains almost entirely cash-dependent.
 
@@ -55,7 +55,7 @@ Pakistan's agricultural sector contributes **23% of GDP** and employs **38% of t
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 kisanpay/
@@ -71,7 +71,7 @@ kisanpay/
 
 ---
 
-## 🌐 App Features
+## App Features
 
 The `kisanpay-app.html` is a **fully functional single-file web application** with 6 interactive pages:
 
@@ -298,6 +298,12 @@ npx serve .
 3. Instant `https://` link, no signup required
 
 ---
+
+##  Live Demo
+
+> **👉 [https://kisanpay.lovable.app](https://kisanpay.lovable.app)**
+
+Built and deployed via Lovable · No installation required · Works on mobile and desktop
 
 ## Declaration
 
